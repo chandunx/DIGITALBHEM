@@ -1,0 +1,38 @@
+.container{
+  background-image: linear-gradient(135deg, #81FBB8 10%, #28C76F 100%);
+  text-align: center;
+  height: 100vh;
+  background-size: cover;
+}
+
+table{
+  margin: auto;
+}
+
+input{
+  border-radius: 21px;
+  border: 5px solid #eae6e7;
+  font-size:34px;
+  height: 65px;
+  width: 456px;
+  margin-top: 0px;
+}
+
+button{
+  border-radius: 20px;
+  font-size: 40px;
+  background: #e7e9e8;
+  width: 102px;
+  height: 90px;
+  margin: 6px;
+}
+
+.calculator{ 
+  border: 4px solid #8af606;
+  background-image: linear-gradient(135deg, #F05F57 10%, #360940 100%);
+  padding: 23px;
+  display: inline-block;
+  
+}
+
+h1{j joijpokopk
